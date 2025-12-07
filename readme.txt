@@ -1,4 +1,4 @@
 Hello Git
 Deuxième ligne pour tester les modifications
 Troisième ligne depuis le clone
-Quatrième ligne depuis master
+Quatrième ligne résolue après conflit
