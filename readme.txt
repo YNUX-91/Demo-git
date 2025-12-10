@@ -5,4 +5,4 @@ Quatrième ligne résolue après conflit
 Ligne temporaire pour tester le stash
 Ligne A depuis demo-rebase
 Ligne B depuis demo-rebase
-Ligne C depuis master
+
